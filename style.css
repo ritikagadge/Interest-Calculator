@@ -1,0 +1,52 @@
+body {
+  background: #e9edff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.app {
+  background: #f2f4ff;
+  width: 320px;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.result-card {
+  background: white;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+label {
+  font-size: 13px;
+  margin-top: 10px;
+  display: block;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 4px;
+  border-radius: 10px;
+  border: none;
+}
+
+button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 12px;
+  background: #4d5cff;
+  color: white;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+}
